@@ -1,0 +1,1 @@
+Some notebooks that I used to check CV basics in my CV Fundamentals undergraduate class like noise removal, different types of filters (e.g. Gaussian filter, ideal filter, Butterworth filter, and filtering in the fourier domain (FFT -> shift the image -> inverse FFT), Erosion and Dilation and basic edge detection using them.
